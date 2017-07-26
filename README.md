@@ -1,3 +1,7 @@
-# My Awesome Book
+# Basic Tutorial Gitbook
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+***
+
+    本文档主要介绍Gitbook工具的基本使用方式。
+    
+    你可以根据本文档开始编写你的第一部Gitbook电子书,以及将其下载为指定类型的文件。    
