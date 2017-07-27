@@ -4,7 +4,7 @@
 
 > 首先需要获取安装包，虽然可以直接使用Gitbook官网的网页版编辑器，但不得不说，延迟太严重了，各种卡慢顿。因此还是建议各位使用客户端编辑器。
 
-> 本文以Windows为例
+> 本文以Windows为例，Mac的使用方式与Windows也大差不差，同样是"下载->安装->使用->关联远程库并上传"，后期如果有需要的话再添加。
 
 从官网获取 [Gitbook安装包](https://www.gitbook.com/editor)
 从网盘获取 [Gitbook安装包-Win 7](http://pan.baidu.com/s/1mij0ie8)
