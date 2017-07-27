@@ -61,6 +61,16 @@
 
 > **从官网获取：** [calibre安装包](https://calibre-ebook.com/download)
 
+![](/assets/生成的PDF.png)
+
+**命令截图**
+
 ![](/assets/gitbook-pdf.png)
 
-![](/assets/生成的PDF.png)
+#### 生成epub文件
+
+![](/assets/屏幕快照 2017-07-27 下午2.03.15.png)
+
+#### 生成mobi文件
+
+![](/assets/2017-07-27_140548.png)
