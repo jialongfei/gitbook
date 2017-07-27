@@ -17,4 +17,4 @@
 #### 使用GitBook制作电子书,必备两个文件：README.md和SUMMARY.md。
 
 * README.md多为电子书的简介内容
-* SUMMARY.md用来定义电子书章节结构
+* SUMMARY.md用来定义电子书章节结构 
