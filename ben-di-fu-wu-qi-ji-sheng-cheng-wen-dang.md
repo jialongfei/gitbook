@@ -27,8 +27,6 @@
     gitbook ls-remote //列出远程可用的gitbook版本
     gitbook update //更新到gitbook的最新版本
     gitbook uninstall 2.0.1 //卸载对应的gitbook版本
-    gitbook build --log=debug //指定log的级别
-    gitbook builid --debug //输出错误信息
 
 # 本地服务器
 
