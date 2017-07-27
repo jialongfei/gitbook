@@ -59,6 +59,8 @@
 
 > **注意：** 如果你没有安装calibre，可能会报错并执行失败，所以可以先确定自己是否有安装calibre并为其配置环境变量(默认安装时自动配置，我们只负责查看环境变量是否存在path中即可)。如果你没安装，那么安装后记得重启一下电脑。
 
+> **从官网获取：** [calibre安装包](https://calibre-ebook.com/download)
+
 ![](/assets/gitbook-pdf.png)
 
 ![](/assets/生成的PDF.png)
